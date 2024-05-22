@@ -744,12 +744,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 1c98507b-d317-4655-9085-324d0674029d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: GameEngine1_ProjectClass
   organizationId: touchyshark
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
